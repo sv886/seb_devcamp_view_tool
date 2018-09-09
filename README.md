@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+SebDevcampViewTool::Renderer.copyright('Sebastian Villarreal', 'All rights reserved')
+```
 
 ## Development
 
